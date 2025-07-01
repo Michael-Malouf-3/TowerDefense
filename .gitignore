@@ -1,0 +1,57 @@
+# === Unity generated folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# === VSCode settings ===
+.vscode/
+
+# === Unity user-specific settings ===
+UserSettings/
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+
+# === MonoDevelop (if used) ===
+*.pidb
+*.userprefs
+
+# === Visual Studio (also handles Rider/Rider Unity plugin) ===
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+*.vs/
+
+# === Crash Reports and temporary info ===
+sysinfo.txt
+
+# === Unity asset packages ===
+*.unitypackage
+
+# === Build artifacts ===
+*.apk
+*.aab
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# === Optional: Git LFS files (if using large binaries) ===
+# *.fbx
+# *.mp4
+# *.wav
+# *.png
+# *.jpg
+# *.psd
